@@ -1,0 +1,15 @@
+[server]
+host = "localhost"
+port = "22"
+user = "root"
+pass = ""
+key = "/home/root/.ssh/id_rsa"
+# localport = "10022"
+# remoteport = "22"
+
+# bastion settings
+# [server.proxy]
+# host = "localhost"
+# port = "22"
+# user = "ak1ra24"
+# pass = "password"
